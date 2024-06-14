@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Web Developer. I'm experienced Mern stack Developer. I have skills that helps in create scalable and reliable react based web applications";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,8 +33,7 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Web Developer",
   "Mobile user interfaces",
   "Graphic design",
 ];
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am a skilled MERN Stack developer with expertise in React.js, Node.js, MongoDB, and problem-solving. Passionate about web development, I aim to create innovative solutions like Playways, a platform for sports enthusiasts. Experienced in HTML/CSS, Bootstrap, and API integration, I strive to excel in full-stack development.";
 
 const About = () => {
   return (
