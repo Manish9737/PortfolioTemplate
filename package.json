@@ -1,9 +1,9 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "portfoliotemplate",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/Manish9737/PortfolioTemplate",
+  "homepage": "https://Manish9737.github.io/PortfolioTemplate",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
